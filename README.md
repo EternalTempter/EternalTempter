@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  You can find me there: 
+  <p>You can find me there: </p>
   <a href="https://t.me/EternalTempter" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
