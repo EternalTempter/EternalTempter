@@ -56,13 +56,15 @@
     <h4>Backend: </h4>
       <img src="https://www.svgrepo.com/show/314393/node-js.svg" height="40" alt="nodejs logo"  />
       <img width="12" />
-      <img src="https://www.svgrepo.com/show/353724/express.svg" height="40" alt="express logo"  />
+      <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="40" alt="express logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   </div>
   <div>
     <h4>Other: </h4>
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40" alt="figma logo"  />
+    <img width="12" />
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" height="40" alt="github logo"  />
   </div>
 </div>
 
