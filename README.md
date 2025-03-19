@@ -6,13 +6,19 @@
 
 ###
 
-<h1 align="left">Привет👋 Меня зовут Даниил!</h1>
+## Choose language
+- [English](README.md)
+- [Russian](README.ru.md)
+
+###
+
+<h1 align="left">Hi, there👋 My name is Daniel!</h1>
 
 ###
 
 <div align="left">
   <h2>
-    Мои контакты:
+    My contacts:
   </h2>
   <a href="https://t.me/EternalTempter" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
@@ -21,15 +27,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="left">👩‍💻  About me:</h3>
 
 ###
 
-<p align="left">Привет! Я Frontend разработчик. Люблю создавать красивые пользовательские интерфейсы на новых технологиях! Всегда рад любым знакомствам :)</p>
+<p align="left">Hello! I'm frontend developer. I love creating beautiful user interfaces on new technologies! I am always glad to meet any new people :)</p>
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Tech stack:</h3>
 
 ###
 
