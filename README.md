@@ -34,25 +34,36 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/306891/typescript.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/306657/redux.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/314393/node-js.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <div>
+    <h4>Frontend: </h4>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" height="40" alt="nextjs logo"  />
+    <img width="12" />
+    <img src="https://www.svgrepo.com/show/306891/typescript.svg" height="40" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://www.svgrepo.com/show/306657/redux.svg" height="40" alt="redux logo"  />
+    <img width="12" />
+    <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  </div>
+  <div>
+    <h4>Backend: </h4>
+      <img src="https://www.svgrepo.com/show/314393/node-js.svg" height="40" alt="nodejs logo"  />
+      <img width="12" />
+      <img src="https://www.svgrepo.com/show/353724/express.svg" height="40" alt="express logo"  />
+      <img width="12" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  </div>
+  <div>
+    <h4>Other: </h4>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" height="40" alt="figma logo"  />
+  </div>
 </div>
 
 ###
